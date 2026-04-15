@@ -34,7 +34,7 @@ website:
 format:
   html:
     theme: none
-    css: styles.scss
+    css: styles.css
     toc: false
     smooth-scroll: true
     link-external-icon: true
