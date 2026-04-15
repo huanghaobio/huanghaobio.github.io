@@ -1,0 +1,13 @@
+---
+title: "News"
+---
+
+<section class="page-intro">
+  <p class="section-kicker">News</p>
+  <h1>A lightweight update stream for papers, talks, teaching, and milestones.</h1>
+  <p class="lead">Instead of running a full blog, this page gives you a concise update section that is easy to maintain and still feels alive.</p>
+</section>
+
+<section class="section-block">
+  {{< include _includes/generated/news-all.html >}}
+</section>

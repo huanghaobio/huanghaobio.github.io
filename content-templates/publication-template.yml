@@ -1,0 +1,10 @@
+- title: "Paper title"
+  authors: "Author A, Your Name, Author C"
+  venue: "Conference or Journal"
+  year: 2026
+  status: "Conference paper"
+  summary: "One or two sentences describing the contribution."
+  selected: false
+  pdf: "https://example.com/paper.pdf"
+  code: "https://github.com/example/repo"
+  project: "https://example.com/project"

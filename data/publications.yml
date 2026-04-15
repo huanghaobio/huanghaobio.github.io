@@ -1,0 +1,70 @@
+- title: "Decoding cancer heterogeneity through super-enhancer landscapes: from subtype discovery to therapeutic opportunity"
+  authors: "Shiyi Cai, Zhigang Wang, Xia Sun, Hao Huang"
+  venue: "Briefings in Bioinformatics"
+  year: 2025
+  status: "Review article"
+  summary: "A review of how super-enhancer landscapes can reveal cancer subtypes, biological mechanisms, and potential therapeutic opportunities across heterogeneous tumors."
+  selected: true
+- title: "Computation strategies and clinical applications in neoantigen discovery towards precision cancer immunotherapy"
+  authors: "Zhigang Wang, Yiming Gu, Xia Sun, Hao Huang"
+  venue: "Biomarker Research"
+  year: 2025
+  status: "Review article"
+  summary: "An overview of computational pipelines for neoantigen discovery and their clinical relevance for precision cancer immunotherapy."
+  selected: true
+- title: "Multi-omics dissection of super-enhancer heterogeneity reveals subtype-specific transcriptional drivers in triple-negative breast cancer"
+  authors: "Zheng Lu, Zhigang Wang, Weijie Zhu, Shiyi Cai, Xia Sun, Hao Huang"
+  venue: "Genomics"
+  year: 2025
+  status: "Journal article"
+  summary: "A multi-omics study showing how super-enhancer heterogeneity identifies subtype-specific transcriptional programs in triple-negative breast cancer."
+  selected: true
+- title: "Defining super-enhancer landscape in triple-negative breast cancer by multiomic profiling"
+  authors: "Hao Huang, Jia Hu, Maryam Ali, et al."
+  venue: "Nature Communications"
+  year: 2021
+  status: "Journal article"
+  summary: "A multi-omic analysis of triple-negative breast cancer that defines super-enhancer landscapes and clarifies subtype-associated regulatory circuitry."
+  selected: true
+- title: "An integrated genomic regulatory network of virulence-related transcriptional factors in Pseudomonas aeruginosa"
+  authors: "Hao Huang, Xiaojing Shao, Yajun Xie, et al."
+  venue: "Nature Communications"
+  year: 2019
+  status: "Journal article"
+  summary: "An integrated genomic study that reconstructs the regulatory network of virulence-related transcription factors in Pseudomonas aeruginosa."
+  selected: true
+- title: "Dissecting super-enhancer heterogeneity: time to re-examine cancer subtypes?"
+  authors: "Ting Wu, Hao Huang, Xin Wang"
+  venue: "Trends in Genetics"
+  year: 2022
+  status: "Commentary"
+  summary: "A perspective on why super-enhancer heterogeneity offers a useful lens for reconsidering how cancer subtypes are defined."
+  selected: true
+- title: "Delineating highly transcribed noncoding elements landscape in breast cancer"
+  authors: "Weijie Zhu, Hao Huang, Weiming Ming, et al."
+  venue: "Computational and Structural Biotechnology Journal"
+  year: 2023
+  status: "Journal article"
+  summary: "A study of highly transcribed noncoding elements in breast cancer and their implications for regulatory analysis."
+  selected: false
+- title: "Single-nucleus RNA sequencing revealed ribosomal genes expression defines the cellular state of oligodendrocytes and precursor cells in post-mortem ischemia mouse brains"
+  authors: "Yuanhao Guo, Jia Ma, Xiaoyu Ma, et al."
+  venue: "International Journal of Biological Macromolecules"
+  year: 2025
+  status: "Journal article"
+  summary: "A single-nucleus transcriptomic analysis linking ribosomal gene expression to cellular states in oligodendrocytes and precursor cells after ischemia."
+  selected: false
+- title: "Genome-wide discovery of microRNA biomarkers for cancer precision medicine"
+  authors: "Zhen Zhu, Gan Han, Hao Huang, et al."
+  venue: "Detection Methods in Precision Medicine"
+  year: 2020
+  status: "Book chapter"
+  summary: "A chapter discussing computational strategies for discovering microRNA biomarkers in precision oncology."
+  selected: false
+- title: "Molecular subtyping of colorectal cancer: recent progress, new challenges and emerging opportunities"
+  authors: "Wenjing Wang, Rakesh Kandimalla, Hao Huang, et al."
+  venue: "Seminars in Cancer Biology"
+  year: 2018
+  status: "Review article"
+  summary: "A review of recent advances, open challenges, and future directions in molecular subtyping of colorectal cancer."
+  selected: false

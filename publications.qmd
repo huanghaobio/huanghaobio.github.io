@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+<section class="page-intro">
+  <p class="section-kicker">Publications</p>
+  <h1>Research papers and selected scholarly outputs.</h1>
+  <p class="lead">This page is generated from <code>data/publications.yml</code>. To add a new paper later, insert one new YAML item and rebuild the site.</p>
+</section>
+
+<section class="section-block">
+  {{< include _includes/generated/publications-all.html >}}
+</section>

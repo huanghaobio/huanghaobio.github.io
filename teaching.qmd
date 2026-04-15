@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+---
+
+<section class="page-intro">
+  <p class="section-kicker">Teaching</p>
+  <h1>Courses, materials, and classroom themes.</h1>
+  <p class="lead">This page gives you a clean place to show current and past teaching without turning the home page into a long archive.</p>
+</section>
+
+<section class="section-block">
+  {{< include _includes/generated/teaching-all.html >}}
+</section>

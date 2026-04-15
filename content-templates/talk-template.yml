@@ -1,0 +1,6 @@
+- title: "Talk title"
+  event: "Event or seminar name"
+  location: "City, Country"
+  date: "2026-05"
+  description: "A short summary of the talk."
+  slides: "https://example.com/slides.pdf"

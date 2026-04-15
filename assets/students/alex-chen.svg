@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560">
+  <rect width="480" height="560" rx="32" fill="#e7d6c7"/>
+  <circle cx="240" cy="185" r="88" fill="#fff7ef"/>
+  <path d="M122 478c20-104 81-166 118-166 37 0 98 62 118 166" fill="#fff7ef"/>
+  <text x="240" y="532" text-anchor="middle" font-size="28" font-family="Georgia, serif" fill="#6b3117">Alex Chen</text>
+</svg>

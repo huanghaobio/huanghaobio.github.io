@@ -1,0 +1,43 @@
+---
+title: "About"
+---
+
+<section class="page-intro">
+  <p class="section-kicker">About</p>
+  <h1>Bioinformatics, computational biology, and medical AI for precision medicine.</h1>
+  <p class="lead">Hao Huang is an Associate Research Fellow and PhD Supervisor at Southeast University. His research focuses on bioinformatics, computational biology, and medical artificial intelligence.</p>
+  <p>His work combines multi-omics data analysis, regulatory genomics, and computational modeling to study cancer heterogeneity, super-enhancer biology, biomarker discovery, and translational problems in precision medicine. He received his PhD in Bioinformatics from City University of Hong Kong, with joint training experience involving Cornell University, and previously completed his master's and bachelor's training at Harbin Medical University.</p>
+</section>
+
+<section class="section-block">
+  <div class="section-head">
+    <div>
+      <p class="section-kicker">Research themes</p>
+      <h2>Current directions</h2>
+    </div>
+  </div>
+  <div class="card-grid three-up">
+    <article class="feature-card">
+      <h3>Cancer regulatory genomics</h3>
+      <p>Studying super-enhancers, transcriptional drivers, and regulatory heterogeneity in cancers such as triple-negative breast cancer.</p>
+    </article>
+    <article class="feature-card">
+      <h3>Precision medicine computation</h3>
+      <p>Developing computational strategies for biomarker discovery, neoantigen analysis, and clinically relevant multi-omics interpretation.</p>
+    </article>
+    <article class="feature-card">
+      <h3>Biomedical AI and data integration</h3>
+      <p>Combining machine learning and biological knowledge to build more informative models for complex biomedical systems.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section-block">
+  <div class="section-head">
+    <div>
+      <p class="section-kicker">Background</p>
+      <h2>Academic trajectory</h2>
+    </div>
+  </div>
+  <p>Since January 2022, Hao Huang has been based at Southeast University. Before that, he completed doctoral training in Bioinformatics at City University of Hong Kong, master's training in Biophysics at Harbin Medical University, and undergraduate training in Bioinformatics at Harbin Medical University.</p>
+</section>

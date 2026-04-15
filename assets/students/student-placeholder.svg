@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560" role="img" aria-labelledby="title desc">
+  <title id="title">Photo placeholder</title>
+  <desc id="desc">A neutral white placeholder card for a student portrait.</desc>
+  <rect x="8" y="8" width="464" height="544" rx="28" fill="#ffffff" stroke="#d9dfe7" stroke-width="3"/>
+  <rect x="76" y="86" width="328" height="248" rx="18" fill="#f6f8fb" stroke="#d9dfe7" stroke-width="2"/>
+  <path d="M168 244c0-39 32-71 72-71s72 32 72 71" fill="none" stroke="#b9c2cf" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="240" cy="190" r="46" fill="none" stroke="#b9c2cf" stroke-width="16"/>
+  <text x="240" y="410" text-anchor="middle" font-size="30" font-family="Georgia, serif" fill="#75808f">Photo forthcoming</text>
+</svg>

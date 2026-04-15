@@ -1,0 +1,7 @@
+- name: "Student Name"
+  portrait: "assets/students/student-name.svg"
+  status: "PhD Student"
+  relationship: "Primary mentee"
+  timeframe: "2025-present"
+  research_focus: "Research direction"
+  summary: "A concise note about the student's work."

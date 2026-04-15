@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+<section class="page-intro">
+  <p class="section-kicker">Contact</p>
+  <h1>Ways to reach me.</h1>
+  <p class="lead">Use this page for collaboration inquiries, student contact information, and links to your academic profiles.</p>
+</section>
+
+{{< include _includes/generated/contact-grid.html >}}

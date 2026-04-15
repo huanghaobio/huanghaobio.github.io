@@ -1,0 +1,7 @@
+- course: "Course name"
+  term: "Spring 2026"
+  role: "Instructor"
+  level: "Undergraduate or Graduate"
+  description: "A concise description of the course."
+  materials_label: "Course page"
+  materials_url: "https://example.com/course"

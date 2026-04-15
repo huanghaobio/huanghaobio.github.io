@@ -1,0 +1,14 @@
+---
+title: "People"
+---
+
+<section class="page-intro">
+  <p class="section-kicker">People</p>
+  <h1>Students I supervise and mentor.</h1>
+  <p class="lead">This page lists current and former students associated with my research and mentoring activities.</p>
+  <p>Photos and short research descriptions can be added later without changing the page layout. The public page is already wired to the structured student data file.</p>
+</section>
+
+<section class="section-block">
+  {{< include _includes/generated/students-all.html >}}
+</section>

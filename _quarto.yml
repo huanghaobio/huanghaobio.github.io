@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: ruby scripts/render_data.rb
+
+website:
+  title: "Hao Huang"
+  site-url: "https://your-github-username.github.io"
+  favicon: assets/profile-placeholder.svg
+  navbar:
+    logo: assets/profile-placeholder.svg
+    pinned: true
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: "© 2026 Hao Huang"
+    right: "Built with Quarto and published on GitHub Pages."
+
+format:
+  html:
+    theme: none
+    css: styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+execute:
+  freeze: auto

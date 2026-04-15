@@ -1,0 +1,53 @@
+---
+title: "Home"
+page-layout: full
+---
+
+{{< include _includes/generated/home-hero.html >}}
+
+{{< include _includes/generated/home-stats.html >}}
+
+<section class="section-block">
+  <div class="section-head">
+    <div>
+      <p class="section-kicker">Research</p>
+      <h2>Selected publications</h2>
+    </div>
+    <a class="inline-button" href="publications.html">Browse all publications</a>
+  </div>
+  <p class="section-note">A few representative papers appear here. The full publications page is rendered from the same structured data source, so you only need to add each paper once.</p>
+  {{< include _includes/generated/home-publications.html >}}
+</section>
+
+<section class="section-block">
+  <div class="section-head">
+    <div>
+      <p class="section-kicker">Mentoring</p>
+      <h2>Students</h2>
+    </div>
+    <a class="inline-button" href="people.html">Open people page</a>
+  </div>
+  <p class="section-note">This section highlights current and former students connected to my research and mentoring activities. Photos and short research profiles can be added incrementally as the site evolves.</p>
+  {{< include _includes/generated/home-students.html >}}
+</section>
+
+<section class="section-block">
+  <div class="section-head">
+    <div>
+      <p class="section-kicker">Recent updates</p>
+      <h2>News, talks, and teaching</h2>
+    </div>
+    <a class="inline-button" href="news.html">See all updates</a>
+  </div>
+  {{< include _includes/generated/home-news.html >}}
+</section>
+
+<section class="section-block">
+  <div class="section-head">
+    <div>
+      <p class="section-kicker">Activity</p>
+      <h2>Recent talks and current teaching</h2>
+    </div>
+  </div>
+  {{< include _includes/generated/home-teaching-talks.html >}}
+</section>

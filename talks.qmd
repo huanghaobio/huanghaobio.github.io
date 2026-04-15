@@ -1,0 +1,13 @@
+---
+title: "Talks"
+---
+
+<section class="page-intro">
+  <p class="section-kicker">Talks</p>
+  <h1>Invited talks, seminars, and presentations.</h1>
+  <p class="lead">Use this page for invited talks, tutorials, internal seminars, and keynote-style appearances. Slides can be linked item by item.</p>
+</section>
+
+<section class="section-block">
+  {{< include _includes/generated/talks-all.html >}}
+</section>
