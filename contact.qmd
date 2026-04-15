@@ -2,6 +2,7 @@
 title: "Contact"
 ---
 
+```{=html}
 <section class="page-intro">
   <p class="section-kicker">Contact</p>
   <h1>Ways to reach me.</h1>
@@ -9,3 +10,4 @@ title: "Contact"
 </section>
 
 {{< include _includes/generated/contact-grid.html >}}
+```

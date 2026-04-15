@@ -2,13 +2,16 @@
 title: "About"
 ---
 
+```{=html}
 <section class="page-intro">
   <p class="section-kicker">About</p>
   <h1>Bioinformatics, computational biology, and medical AI for precision medicine.</h1>
   <p class="lead">Hao Huang is an Associate Research Fellow and PhD Supervisor at Southeast University. His research focuses on bioinformatics, computational biology, and medical artificial intelligence.</p>
   <p>His work combines multi-omics data analysis, regulatory genomics, and computational modeling to study cancer heterogeneity, super-enhancer biology, biomarker discovery, and translational problems in precision medicine. He received his PhD in Bioinformatics from City University of Hong Kong, with joint training experience involving Cornell University, and previously completed his master's and bachelor's training at Harbin Medical University.</p>
 </section>
+```
 
+```{=html}
 <section class="section-block">
   <div class="section-head">
     <div>
@@ -31,7 +34,9 @@ title: "About"
     </article>
   </div>
 </section>
+```
 
+```{=html}
 <section class="section-block">
   <div class="section-head">
     <div>
@@ -41,3 +46,4 @@ title: "About"
   </div>
   <p>Since January 2022, Hao Huang has been based at Southeast University. Before that, he completed doctoral training in Bioinformatics at City University of Hong Kong, master's training in Biophysics at Harbin Medical University, and undergraduate training in Bioinformatics at Harbin Medical University.</p>
 </section>
+```

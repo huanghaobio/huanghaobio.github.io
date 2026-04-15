@@ -2,6 +2,7 @@
 title: "Talks"
 ---
 
+```{=html}
 <section class="page-intro">
   <p class="section-kicker">Talks</p>
   <h1>Invited talks, seminars, and presentations.</h1>
@@ -11,3 +12,4 @@ title: "Talks"
 <section class="section-block">
   {{< include _includes/generated/talks-all.html >}}
 </section>
+```

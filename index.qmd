@@ -3,10 +3,15 @@ title: "Home"
 page-layout: full
 ---
 
+```{=html}
 {{< include _includes/generated/home-hero.html >}}
+```
 
+```{=html}
 {{< include _includes/generated/home-stats.html >}}
+```
 
+```{=html}
 <section class="section-block">
   <div class="section-head">
     <div>
@@ -18,7 +23,9 @@ page-layout: full
   <p class="section-note">A few representative papers appear here. The full publications page is rendered from the same structured data source, so you only need to add each paper once.</p>
   {{< include _includes/generated/home-publications.html >}}
 </section>
+```
 
+```{=html}
 <section class="section-block">
   <div class="section-head">
     <div>
@@ -30,7 +37,9 @@ page-layout: full
   <p class="section-note">This section highlights current and former students connected to my research and mentoring activities. Photos and short research profiles can be added incrementally as the site evolves.</p>
   {{< include _includes/generated/home-students.html >}}
 </section>
+```
 
+```{=html}
 <section class="section-block">
   <div class="section-head">
     <div>
@@ -41,7 +50,9 @@ page-layout: full
   </div>
   {{< include _includes/generated/home-news.html >}}
 </section>
+```
 
+```{=html}
 <section class="section-block">
   <div class="section-head">
     <div>
@@ -51,3 +62,4 @@ page-layout: full
   </div>
   {{< include _includes/generated/home-teaching-talks.html >}}
 </section>
+```

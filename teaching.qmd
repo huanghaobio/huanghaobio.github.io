@@ -2,6 +2,7 @@
 title: "Teaching"
 ---
 
+```{=html}
 <section class="page-intro">
   <p class="section-kicker">Teaching</p>
   <h1>Courses, materials, and classroom themes.</h1>
@@ -11,3 +12,4 @@ title: "Teaching"
 <section class="section-block">
   {{< include _includes/generated/teaching-all.html >}}
 </section>
+```

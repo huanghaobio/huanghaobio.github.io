@@ -2,6 +2,7 @@
 title: "News"
 ---
 
+```{=html}
 <section class="page-intro">
   <p class="section-kicker">News</p>
   <h1>A lightweight update stream for papers, talks, teaching, and milestones.</h1>
@@ -11,3 +12,4 @@ title: "News"
 <section class="section-block">
   {{< include _includes/generated/news-all.html >}}
 </section>
+```

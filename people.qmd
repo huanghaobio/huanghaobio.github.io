@@ -2,6 +2,7 @@
 title: "People"
 ---
 
+```{=html}
 <section class="page-intro">
   <p class="section-kicker">People</p>
   <h1>Students I supervise and mentor.</h1>
@@ -12,3 +13,4 @@ title: "People"
 <section class="section-block">
   {{< include _includes/generated/students-all.html >}}
 </section>
+```

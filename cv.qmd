@@ -2,6 +2,7 @@
 title: "CV"
 ---
 
+```{=html}
 <section class="page-intro">
   <p class="section-kicker">CV</p>
   <h1>A concise academic profile.</h1>
@@ -38,3 +39,4 @@ title: "CV"
     </section>
   </div>
 </section>
+```
