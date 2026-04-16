@@ -3,7 +3,6 @@ short_name: "Hao Huang"
 title: "Associate Research Fellow, PhD Supervisor"
 affiliation: "School of Biological Science and Medical Engineering, Southeast University"
 email: "haohuang@seu.edu.cn"
-phone: "+86 13072528353"
 location: "Nanjing, China"
 address: "No. 2 SEU Road, Nanjing, Jiangsu 211189, China"
 portrait: "assets/profile-placeholder.svg"
@@ -18,15 +17,11 @@ research_topics:
 highlights:
   - label: "Selected publications"
     value: "30+"
-  - label: "Competitive grants"
-    value: "2"
   - label: "Honors & awards"
     value: "10+"
 quick_links:
   - label: "Email"
     value: "haohuang@seu.edu.cn"
-  - label: "Phone"
-    value: "+86 13072528353"
   - label: "Location"
     value: "Nanjing, China"
 social_links:

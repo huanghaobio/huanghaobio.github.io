@@ -6,7 +6,7 @@ title: "CV"
 <section class="page-intro">
   <p class="section-kicker">CV</p>
   <h1>A concise academic profile.</h1>
-  <p class="lead">This page summarizes current appointment, education, funding, and selected honors. A PDF version can be added later under <code>assets/cv/</code>.</p>
+  <p class="lead">This page summarizes current appointment, education, and selected honors. A PDF version can be added later under <code>assets/cv/</code>.</p>
 </section>
 
 <section class="cv-layout">
@@ -21,11 +21,6 @@ title: "CV"
       <p><strong>09/2017-10/2021</strong><br/>PhD in Bioinformatics<br/>City University of Hong Kong, Jockey Club College of Veterinary Medicine and Life Sciences<br/>Joint training experience with Cornell University</p>
       <p><strong>09/2014-06/2017</strong><br/>MSc in Biophysics<br/>School of Bioinformatics Science and Technology, Harbin Medical University</p>
       <p><strong>09/2009-06/2014</strong><br/>BSc in Bioinformatics<br/>School of Bioinformatics Science and Technology, Harbin Medical University</p>
-    </section>
-    <section class="cv-block">
-      <h3>Selected funding</h3>
-      <p>National Natural Science Foundation of China, Young Scientists Fund</p>
-      <p>Natural Science Foundation of Jiangsu Province, Young Scientists Fund</p>
     </section>
     <section class="cv-block">
       <h3>Selected honors</h3>

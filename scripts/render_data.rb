@@ -172,7 +172,7 @@ end
 write_partial('home-publications.html', %(<div class="card-grid three-up">#{selected_cards}</div>))
 
 news_cards = if news.empty?
-  empty_card('News and updates will appear here', 'You can add grants, papers, awards, and other milestones in data/news.yml.')
+  empty_card('News and updates will appear here', 'You can add papers, awards, and other milestones in data/news.yml.')
 else
   news.first(3).map do |item|
     <<~HTML
@@ -266,7 +266,7 @@ end
 write_partial('teaching-all.html', %(<div class="timeline-list">#{all_teaching}</div>))
 
 all_news = if news.empty?
-  empty_card('News will be listed here', 'Add grants, papers, awards, or other milestones in data/news.yml.')
+  empty_card('News will be listed here', 'Add papers, awards, or other milestones in data/news.yml.')
 else
   news.map do |item|
     <<~HTML
@@ -295,8 +295,7 @@ contact_grid = <<~HTML
       <p>#{esc(profile['contact_note'])}</p>
     </article>
     <article class="contact-card">
-      <h3>Phone & address</h3>
-      <p><strong>Phone</strong><br/>#{esc(profile['phone'])}</p>
+      <h3>Address</h3>
       <p><strong>Address</strong><br/>#{esc(profile['address'])}</p>
     </article>
     <article class="contact-card">
@@ -312,7 +311,6 @@ cv_sidebar = <<~HTML
     <h3>Quick profile</h3>
     <p><strong>#{esc(profile['name'])}</strong><br/>#{esc(profile['title'])}<br/>#{esc(profile['affiliation'])}</p>
     <p><strong>Email</strong><br/>#{esc(profile['email'])}</p>
-    <p><strong>Phone</strong><br/>#{esc(profile['phone'])}</p>
     <p><strong>Research areas</strong><br/>#{esc((profile['research_topics'] || []).join(', '))}</p>
     <p><a class="inline-button" href="assets/cv/README.txt">Add PDF later</a></p>
   </aside>
